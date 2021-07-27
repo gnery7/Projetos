@@ -1,0 +1,72 @@
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe.config
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.pdb
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csprojAssemblyReference.cache
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.resources
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Properties.Resources.resources
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.GenerateResource.cache
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.CoreCompileInputs.cache
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.exe
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe.config
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.resources
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Properties.Resources.resources
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\victo\Desktop\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe.config
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csprojAssemblyReference.cache
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.resources
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Properties.Resources.resources
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.GenerateResource.cache
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.CoreCompileInputs.cache
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\GNery\Downloads\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe.config
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csprojAssemblyReference.cache
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.resources
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Properties.Resources.resources
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.GenerateResource.cache
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.CoreCompileInputs.cache
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\bin\Debug\aa\Jogo_08_grupo185335_185675.resources.dll
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.aa.resources
+C:\Users\GNery\Downloads\Nova pasta\Jogo_08_grupo185335_185675\obj\Debug\aa\Jogo_08_grupo185335_185675.resources.dll
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\bin\Debug\aa\Jogo_08_grupo185335_185675.resources.dll
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.aa.resources
+E:\Unisanta\2 semestre\Programação Visual e Games\Projeto 08\Jogo_08_grupo185335_185675\obj\Debug\aa\Jogo_08_grupo185335_185675.resources.dll
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe.config
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\bin\Debug\aa\Jogo_08_grupo185335_185675.resources.dll
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csprojAssemblyReference.cache
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.resources
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Properties.Resources.resources
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.aa.resources
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.GenerateResource.cache
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.CoreCompileInputs.cache
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\aa\Jogo_08_grupo185335_185675.resources.dll
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe.config
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\bin\Debug\Jogo_08_grupo185335_185675.pdb
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\bin\Debug\aa\Jogo_08_grupo185335_185675.resources.dll
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csprojAssemblyReference.cache
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.resources
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Properties.Resources.resources
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.Form_Jogo08.aa.resources
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.GenerateResource.cache
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.csproj.CoreCompileInputs.cache
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\aa\Jogo_08_grupo185335_185675.resources.dll
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.exe
+C:\Users\GNery\Documents\Faculdade\2º Semestre\Exercicios\Programação Visual e Games\Atividades entregues (TP)\Projeto P2\VERSÃO FINAL\Jogo_08_grupo185335_185675\obj\Debug\Jogo_08_grupo185335_185675.pdb
